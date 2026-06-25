@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I am Noman Mustafa
 
-<!--
-**Zaib425/Zaib425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data analytics learner and freelancer based in Pakistan.
+I work on real projects to improve my skills and help clients.
 
-Here are some ideas to get you started:
+## Skills
+- SQL (PostgreSQL)
+- Microsoft Excel
+- Power BI
+- Python (learning)
+- Data Entry
+- Online Research
+- Virtual Assistant
+- PDF Conversion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You Will Find Here
+- SQL practice queries
+- Excel data cleaning projects
+- Data analysis case studies
+- Online research templates
+
+## Currently Learning
+- Advanced SQL
+- Power BI dashboards
+- Python for data analysis
+
+## Freelance Services
+- Data Entry
+- PDF Conversion
+- Online Research
+- Virtual Assistant
+
+## Contact Me
+- LinkedIn: https://www.linkedin.com/in/noman-mustafa-a8a61b419/
+- Email: mustafanoman469@gmail.com
+
+## Goal
+To become a professional data analyst and help businesses make better decisions using data.
