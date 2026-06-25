@@ -1,7 +1,6 @@
 # Hi, I am Noman Mustafa
 
-I am a data analytics learner and freelancer based in Pakistan.
-I work on real projects to improve my skills and help clients.
+Professional data analyst and freelancer. Working with SQL, Excel, Power BI and Python. Providing data entry, online research, virtual assistant and PDF conversion services.I work on real projects to improve my skills and help clients.
 
 ## Skills
 - SQL (PostgreSQL)
